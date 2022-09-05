@@ -2,3 +2,6 @@
 <hr>
 # thymeleaf
 การใช้ template engine thymeleaf กับ spring boot
+<br/>
+#1 Standard Expression Syntax
+
